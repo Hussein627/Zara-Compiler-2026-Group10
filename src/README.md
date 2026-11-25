@@ -1,3 +1,3 @@
-# Project src
+# Zara compiler source code
 
-This folder contains src for the Zara Compiler project.
+This folder contains source code for the Zara Compiler.
